@@ -1,0 +1,9 @@
+.todo-Container{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    justify-content: center;
+
+    padding:30px;
+    align-items: center;
+    gap: 20px;
+}
